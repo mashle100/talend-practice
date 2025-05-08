@@ -1,0 +1,597 @@
+Signature-Version: 1.0
+Created-By: Talend
+SHA-256-Digest-Manifest: F+/h7D/GtjaQDXZ7DsbS0mHaTclD/l4wSnnDwhSCJXg=
+
+Name: LoadCustomersToSnowflake/LoadCustomersToSnowflake_run.bat
+SHA-256-Digest: 83L/GFnazZC3wMLuJKdFaQhUBQdc7n1gtnvTPVVRU2A=
+
+Name: LoadCustomersToSnowflake/LoadCustomersToSnowflake_run.ps1
+SHA-256-Digest: SFuUo0YKpnPB9mFOFyB6Og/A8LVsl2PTVaMuwP8Mff4=
+
+Name: LoadCustomersToSnowflake/LoadCustomersToSnowflake_run.sh
+SHA-256-Digest: lpbWdnEjAKTaZ5edGfXIs+uUB1M5dipD/9N+mjWlAss=
+
+Name: LoadCustomersToSnowflake/items/talend_practice/.settings/migrati
+ on_task.index
+SHA-256-Digest: as9e7YGshKl/FeytQPjLsNJJbv7YXWWm4KMacsT/dj8=
+
+Name: LoadCustomersToSnowflake/items/talend_practice/.settings/project
+ .settings
+SHA-256-Digest: 2baIHtR/OO9pKJm3JQN8MhDzkCQW3H+zNf+xZe7PZ3I=
+
+Name: LoadCustomersToSnowflake/items/talend_practice/.settings/relatio
+ nship.index
+SHA-256-Digest: fDID1IWv+6q9qXT3+BxmqPHtQ9mRbJXAmFMVy25wVjw=
+
+Name: LoadCustomersToSnowflake/items/talend_practice/process/LoadCusto
+ mersToSnowflake_0.1.item
+SHA-256-Digest: HGDRoZy4sXiWTNZCPTvIDkF3ORL4vNolUYdHYIW+rGI=
+
+Name: LoadCustomersToSnowflake/items/talend_practice/process/LoadCusto
+ mersToSnowflake_0.1.properties
+SHA-256-Digest: ynpNWZq0t/549ssWZgdzcLo7mGKHtQ1EnR2nN2os97Y=
+
+Name: LoadCustomersToSnowflake/items/talend_practice/process/LoadCusto
+ mersToSnowflake_0.1.screenshot
+SHA-256-Digest: 9rQF6V3YEa483/ZzPl2p5t8cEFhKN/iOubyPqRV2KDs=
+
+Name: LoadCustomersToSnowflake/items/talend_practice/talend.project
+SHA-256-Digest: q0Ez+JxQgIDZiazGscFTS2zaLafwuLpQNoz9IhZqI+k=
+
+Name: LoadCustomersToSnowflake/loadcustomerstosnowflake_0_1.jar
+SHA-256-Digest: mWIdpd7fHlMhs8vOqr96aEXUXbX7fi0hVGrTQ/tjSkA=
+
+Name: LoadCustomersToSnowflake/log4j2.xml
+SHA-256-Digest: 0NApkiOkOCsaO7UnibCBEGSX4l9sLYfsWSlETLnmsXU=
+
+Name: LoadCustomersToSnowflake/src/main/java/talend_practice/loadcusto
+ merstosnowflake_0_1/LoadCustomersToSnowflake.java
+SHA-256-Digest: deH9T1fFvrlC3qpq3wg1zalIEd/KnJNkS+rgMOEcisE=
+
+Name: LoadCustomersToSnowflake/src/main/resources/talend_practice/load
+ customerstosnowflake_0_1/contexts/Default.properties
+SHA-256-Digest: ytrYyGcr05UlwOVI6R25ruv9jtRK2j++VwQ6fNRuCog=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ access.xml
+SHA-256-Digest: d27cf+GD9aOeM983drd+6HJ78pui+D8ztxDFWiGHGus=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ amazon_aurora.xml
+SHA-256-Digest: XyGGstyNFLUdFWY3KQFs90BLvvd3/NR0uCaekv4pZ4U=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ as400.xml
+SHA-256-Digest: TXCQkRS0HK/9Y9xDxKXSKNGLdKVZ9/SCtHZTCbkgZMQ=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ bigquery.xml
+SHA-256-Digest: cGecoo1GYtEZ1/kQkXyl6elEQlNA2gwLAaKrPOd7TFw=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ cassandra.xml
+SHA-256-Digest: qX7qQfTkxzlp9U7kFpsj6nev6ymc5VkJjjvg9G74R9U=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ cassandra22_datastax.xml
+SHA-256-Digest: mGl2hr8NgtKJTUS4wRVG+XPB5zGFjPj0QiUkOaIfQJc=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ cassandra40_datastax.xml
+SHA-256-Digest: 76f6L4wyRrLwhq2D5ZRpta1vCK33ocVj0COg8IFJM+Y=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ cassandra_datastax.xml
+SHA-256-Digest: FQaAWG2kpRnVy2jh+UO9nNTO9lHYuSNHo5ozZuxReJk=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ databricks_delta_lake.xml
+SHA-256-Digest: AAcidPSrCFqyUV6ukhWLnQpmco5XXD+awA3ngSOZwSU=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ dynamodb.xml
+SHA-256-Digest: Q6+pz3aZEEQBaI6gJxEjHkQZWiOC2nKWiE8vnYKXmcQ=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ ebcdic.xml
+SHA-256-Digest: ouGizX/MDfVtLFUPcxXwdWekJHTqaSp7lWtfcngLbYc=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ exasol.xml
+SHA-256-Digest: ir02izKH7UN9uxN7B9Eah2j/pSgbCC6eFNK0OiVstW8=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ firebird.xml
+SHA-256-Digest: OgmMvyNOb+UvemtAinBgFWLT4oVmr14ccGCHbJOjZyA=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ greenplum.xml
+SHA-256-Digest: awY960EiPsmPLRMqM1jr29C3S52j/LRU6F9Ew/HDQmw=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ h2.xml
+SHA-256-Digest: E0/QTltPci7vTobOGdwqTqqOPJUR5cQGo9SuTOgrujg=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ hive.xml
+SHA-256-Digest: KV9Pm7SIxtn08MFi+gmsdLXhPncrPd4AZ2Y/9+8PBXU=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ hsqldb.xml
+SHA-256-Digest: 2f5aJZ/RS0XsEx/omOvqLsoR8XOfPUZAUVHvCyY0zJA=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ ibmdb2.xml
+SHA-256-Digest: 7FGDW6OIimGjTchO5YX0raSxHKamO75W8IU374gI/kE=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ impala.xml
+SHA-256-Digest: G6FqVAZXX4kBUsq7WNpvR+Anvzyda6Bc0S5XeLpGA5g=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ informix.xml
+SHA-256-Digest: j9vFMQuMshqcMCXGdsbLyY9TkEpsKek7ovRGk2g5V/M=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ ingres.xml
+SHA-256-Digest: 4ancG4vkHxvCBHWrKMMIeWDpZmYPcl+CiG09V4tWnb0=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ javadb.xml
+SHA-256-Digest: rxQhFIGFA1qcOLm9ZR8p45AWjk0WpC3AygWAh0az5RU=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ maxdb.xml
+SHA-256-Digest: jUex4Zc0UPLkNKwqLvqJVrnKCbnh2GX10oyd8CupZmk=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ mscrm.xml
+SHA-256-Digest: TWE2CpBaQ8MlMirJhogGaST0oXe98e3wqtpOfLGiBxA=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ mscrm_odata.xml
+SHA-256-Digest: PX4kIiZBQapO12HRVAqZhkKgO7k1aedmpwpVzojhAbQ=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ msodbc.xml
+SHA-256-Digest: jttRwZ1SRSoKAyq9ukQuPKnktPhHwQqiYW1knaqXak4=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ mssql.xml
+SHA-256-Digest: uZXRbXxt+KjhZ8AV7HxqcAMLhxePpwTp4keUq1JgZj0=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ mysql.xml
+SHA-256-Digest: 4ABm0dOqEeLGtUfTW1IfufqnUlXVX2PO2pmNOvKPUis=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ netezza.xml
+SHA-256-Digest: tt7NdmGJi8rBVRaENo9vIxuqpxkMAYeT7sN5ZeTSzm0=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ oracle.xml
+SHA-256-Digest: hLKE6Mm/fPI8nuYFvRsYWykqCBgSuVXCdzBSxhlI/vM=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ postgres.xml
+SHA-256-Digest: IlNvLx63tPp9s3bKnTfQeqUq1jE1nkFOM8n8dTHX7j8=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ redshift.xml
+SHA-256-Digest: lgWL7A5uLtvsaOISBEU3OVV44o/lehxqZ2MYtKwxB8o=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ sap.xml
+SHA-256-Digest: pIk9n6Mf26JGIA8Tysb0gSMExKc4nMKiZrfAR4LQi/A=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ saphana.xml
+SHA-256-Digest: lH5OnHK1t83e8mXUquGkMMX3sSJeTj/6jkTk5SIb4ck=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ singlestore.xml
+SHA-256-Digest: 0Mm9wXuy0mMScir1BSb3T+jUl7kOsfaepA5AN3KgRZc=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ snowflake.xml
+SHA-256-Digest: /l54R0LR6gAxAnfEht+pv4od6hFpZGHgIawANd1Aq+s=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ sqlite.xml
+SHA-256-Digest: kiciT7H84Tx7czo4Xma7fwUHke76suxiB+ExxTPdfM0=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ sybase.xml
+SHA-256-Digest: AeCRW3yAh0dsNtPFBJi48lwJBBy4uYREuKVpsnIEJwM=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ teradata.xml
+SHA-256-Digest: /Ok5mMZoBje4nL3qD+cNBljOIJ7qxIF1HcGVPuTNnsQ=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ vectorwise.xml
+SHA-256-Digest: SAHuJOrUeXyfX3fMgQCaBHG7gIf6fzCXyt8vpG73i70=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ vertica.xml
+SHA-256-Digest: /6b7m+k8dcKBaOBUicg3cz0t0V2o2D64R1KcHE3Wuxo=
+
+Name: LoadCustomersToSnowflake/src/main/resources/xmlMappings/mapping_
+ xsd.xml
+SHA-256-Digest: a5py+fGw3zGiCiEju8vNWOXwkgZfj9DURaUEj62CSpg=
+
+Name: LoadCustomersToSnowflake/talend_practice/loadcustomerstosnowflak
+ e_0_1/contexts/Default.properties
+SHA-256-Digest: rx0advM1bx2Bd3Gfv8TrFovRtsIHMQJGsQaFXs0/W8Q=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_access.xml
+SHA-256-Digest: vLe5q4nv1cmKpelLYTmiOGLLFLIDNO33cK2XniVn2vs=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_amazon_aurora.xml
+SHA-256-Digest: R9L+DcwAe8G15EuQAy9R+P4SsNEHS6jhec3z76QbWP0=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_as400.xml
+SHA-256-Digest: tORgLbtKk0zqwTaZ+EQfFWadD0G2oYSoiqGooX6oPpc=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_bigquery.xml
+SHA-256-Digest: RUqhB1CsbW8pRdYnL02C+UWn3mYP1jgNHqTfPO094xU=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_cassandra.xml
+SHA-256-Digest: 2JUP5eGuTpbpgqGIA8znoSCX0Toaj25dNoK5LptGByg=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_cassandra22_datasta
+ x.xml
+SHA-256-Digest: zbr+5bUxwsDSDzdPSM3+W9G4wmsFZEuX9hQ83EfpUTU=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_cassandra40_datasta
+ x.xml
+SHA-256-Digest: jG0bFC4FfXZL2+JCFewK5afsuUbE3oCHzLtbQnHhIew=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_cassandra_datastax.
+ xml
+SHA-256-Digest: Eq5dz6bcM4j5HuAQZ3wVR//yPMV7/nBk4C+oCttSrn0=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_databricks_delta_la
+ ke.xml
+SHA-256-Digest: yvB7NN/WrHs+2wVM5vkmbHHEPFHe8RUX+Rt0Aqrrok0=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_dynamodb.xml
+SHA-256-Digest: xQyQSk48uPz+E2IZJ2yc6HPypoHROuU+rU5isJpDPHY=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_ebcdic.xml
+SHA-256-Digest: q9ow3bMvo5ll/uRHvEfUopyPbyFcSb9b1P3iZsxkzLY=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_exasol.xml
+SHA-256-Digest: yGc2UPMTqpq4AMjX03ALJcI56nnDqEKyamPAzlS1dNY=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_firebird.xml
+SHA-256-Digest: XjpXD2N5orDRV0+csQx5GOZSA92nGIrAb70eMqwmK/o=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_greenplum.xml
+SHA-256-Digest: pJ7RuLcxg9Ik94NKCZv+uxzimHYTxEDuMYOqcDsun9g=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_h2.xml
+SHA-256-Digest: HiQ7l9xMux3hHIukOGRbdGM/PQKTJgslCkwhrAA4+4c=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_hive.xml
+SHA-256-Digest: CpcQc1BS7AP55lKIJTCCNcweZ0+ag6BK4qJhMlgVh8c=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_hsqldb.xml
+SHA-256-Digest: 3kK0YjbXlYJY4zyecQMgpbU42I+bTIK1VZ9/Ouwp94I=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_ibmdb2.xml
+SHA-256-Digest: HeO5JM6b4KBUfjmvgHAMT4O2fH3LN5NXVqRraXrUlR4=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_impala.xml
+SHA-256-Digest: HtvJVkxSFoLLiirh16n5sfc4X8AtI6Mrqr7Hyg+QAG4=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_informix.xml
+SHA-256-Digest: VdsEFNIgQ/FdMlCbc0MyfSDaJ0IPkK+Kcupo/xxRPMY=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_ingres.xml
+SHA-256-Digest: SknIIYW9K9hRHt1E1KZYYWpgq1NTo41AhExGwfRl1v4=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_javadb.xml
+SHA-256-Digest: 9wCz3Yg0WBo99/ZxY+pOVKPBZGmBLLx3PNqhvH4uWVA=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_maxdb.xml
+SHA-256-Digest: twozT3Yvo+hQaNeCpgddM7mKhF13RXASyDl07UZ5NFw=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_mscrm.xml
+SHA-256-Digest: a1LnXJag7K+DFZQ4kLRasMTkn830Rly5S7cTytaCAP0=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_mscrm_odata.xml
+SHA-256-Digest: 0MJorhGeRi0M6u2psItJ1YeTu3M8lh9t0eRnQOuObTM=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_msodbc.xml
+SHA-256-Digest: XfAMOp720Wtjnq8nxPqgZbLT1RB7VA93GN+gDUojwA8=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_mssql.xml
+SHA-256-Digest: lJVNEAK/DMhTH/JxErGb82TeKJFFp7pyQ2u/pthDaRM=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_mysql.xml
+SHA-256-Digest: br9O2iPVaaoC3WXS6eE+myDk440zOKJIkTjF7kjzmA4=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_netezza.xml
+SHA-256-Digest: UGjWhmF4uMivWKuwenXfgf2sWyKF9IG7LHbe2J6ooZg=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_oracle.xml
+SHA-256-Digest: dGPWXxzmashyivs/CLxcCXfiWKvJrGKrWlMJ6t65CBM=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_postgres.xml
+SHA-256-Digest: AAI+8hqT7jMxbHwfJSYKfuCi3kuAZRpD5y+xO6HTH+c=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_redshift.xml
+SHA-256-Digest: IvAaOfF2pW5YyWgioRyabryzZcDyYImHUKzrJVHIThs=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_sap.xml
+SHA-256-Digest: IiF9C/4TIfZZSMNHlAoLnWXu7oBb0WtcXw+C9z+4/o0=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_saphana.xml
+SHA-256-Digest: 7ah9K9EJDUCJKA1Blg+mS/USiynR6qV0litcN0EzbOA=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_singlestore.xml
+SHA-256-Digest: WhVO0LdJFWa0RnUWtDiGTzPO2i9i8HK6UcVOTDdEuJk=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_snowflake.xml
+SHA-256-Digest: WbpPPNkvymhjPBUPQtcVo4SYpD8IBnodoXAnou9VdT8=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_sqlite.xml
+SHA-256-Digest: r5TasFSo4VsEadZxT2XopHrpxlnVJQWzH+0H4MiUiEU=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_sybase.xml
+SHA-256-Digest: YeosnbHCB/daubmFsJFtyaspkSx637SdxxWWHCMbMOE=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_teradata.xml
+SHA-256-Digest: bPe4aDeeLNU/BDribx4IWdhWo6mcmlMtVZSmjiZvWY4=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_vectorwise.xml
+SHA-256-Digest: g+jKJTYkxDUJMiaY5FjFvxMnaWjbpr7HLqZpM6tpvtk=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_vertica.xml
+SHA-256-Digest: +gASSM4tEU8vreO7VylSHbRGEmHkXrLyHHzYFSNn/KI=
+
+Name: LoadCustomersToSnowflake/xmlMappings/mapping_xsd.xml
+SHA-256-Digest: stm0tB2xZuKo9N5fa9AvyDjA9Ft3pbnfRPmJj4S+IRU=
+
+Name: jobInfo.properties
+SHA-256-Digest: G+kxrvAUeqkEbn8BPEN2bqWTNCqQdEAAyaQY1csy34k=
+
+Name: lib/accessors-smart-2.4.11.jar
+SHA-256-Digest: mAsojjfjfZSDCETguj/FXRjZ4ee1nbGfKpaylN6aMg8=
+
+Name: lib/angus-activation-2.0.2.jar
+SHA-256-Digest: XzcusDciQY7QPEFNUAJb8z/znt+WcwSSrjSv3B82udE=
+
+Name: lib/asm-9.5.jar
+SHA-256-Digest: vZ4z7XvKDgeXyHAR5w83Jtlfkk+L0YqIzT79prsE+o4=
+
+Name: lib/audit-common-1.16.1.jar
+SHA-256-Digest: FQuuUiYHA0gEURFZrmZ2mo8m4B3YW+8fShAoPvmGdiU=
+
+Name: lib/audit-log4j2-1.16.1.jar
+SHA-256-Digest: Dhj4qkl+mvE2JNQg2nP4Eb+199h29mDForJ1zPFX/80=
+
+Name: lib/auto-common-0.3.jar
+SHA-256-Digest: wGWYpvzYnx2UQr1cbKYx41eoUCv8rwo7uJlpMphAF3A=
+
+Name: lib/auto-service-1.0-rc2.jar
+SHA-256-Digest: 0ktJohg6IB/tp/ylWOWoAuc5WJOTsTQzDd4PPsBh+Kk=
+
+Name: lib/avro-1.11.4.jar
+SHA-256-Digest: CXGD0eAZY7YUgkF+uwDLGE6X55V5ZvhkE2wYjpPtGK0=
+
+Name: lib/checker-qual-3.5.0.jar
+SHA-256-Digest: HENtXWDUG94Uwq10enG3UN/p/nCSu4zaBEA0IJ++Juc=
+
+Name: lib/commons-beanutils-1.9.4.jar
+SHA-256-Digest: zvmqi0s+Lbil8FyEH4qTLEUzyXUPadibaExYZVaLkt4=
+
+Name: lib/commons-codec-1.14.jar
+SHA-256-Digest: aQuRG6OK5p43Rc4QKe7N2Z1t5aAEviUx9l7NI3gta80=
+
+Name: lib/commons-collections-3.2.2.jar
+SHA-256-Digest: dSFY8tyl6BP1CQA45xRqQJn9fyjjNKK+mKKrScCIjp0=
+
+Name: lib/commons-compress-1.26.0.jar
+SHA-256-Digest: ztBFu43IoHO8Jnz71dQ5IDg1hgYe/MeGaIxLFTWcDlA=
+
+Name: lib/commons-configuration2-2.10.1.jar
+SHA-256-Digest: ASJwr4E9Jnxy7rANrviX9ugWSNFXROKz0PEDyi5xAyw=
+
+Name: lib/commons-io-2.15.1.jar
+SHA-256-Digest: fOkT5hZKVGgCdWjB260gMKyrLTWPZfR/Q0d06Q+k8vI=
+
+Name: lib/commons-lang3-3.10.jar
+SHA-256-Digest: s3vGmUZh2KjXnSOEINC9xgZqfUFD8YcTmRiJTUOqOwY=
+
+Name: lib/commons-logging-1.2.jar
+SHA-256-Digest: aGqz2G+cPMGjjmkLx/NtTmHt/r8vPV7HfUaomhZptiE=
+
+Name: lib/commons-text-1.10.0.jar
+SHA-256-Digest: Nzi3u2SatlrQPGFR7/Odlir/O/qeZI50LAx1u3Ny0HI=
+
+Name: lib/components-api-0.37.45.jar
+SHA-256-Digest: y4hf0MsJF6/acy4rVW1kQrgvjGQ/+UQY+3UnBfLVhAE=
+
+Name: lib/components-common-0.37.45.jar
+SHA-256-Digest: DoppLazA28NLp+dckVIAH5qzr4CufkjzDV03rDM5nhg=
+
+Name: lib/components-snowflake-definition-0.37.45.jar
+SHA-256-Digest: bMpw2hOp7UmJdI7O5eX2Gudf7YRseZ/1+3Ep49vjp2w=
+
+Name: lib/components-snowflake-runtime-0.37.45.jar
+SHA-256-Digest: ge7KJeElQ+6oBAAArWf0BJoh+OayxslLsXofsL1rcEY=
+
+Name: lib/crypto-utils-7.1.20.jar
+SHA-256-Digest: WDf1+uePnOej/X9Naeh6oqCRT3nT1xF8xkGkJY+Dc+g=
+
+Name: lib/daikon-7.1.20.jar
+SHA-256-Digest: xdkSu9jnHiO+bzsOtiEz/mBRoyxHMCwn6O84/7YOx+8=
+
+Name: lib/daikon-exception-7.1.20.jar
+SHA-256-Digest: IWFS/gosQUhVn7eU5mrG93/1W3OuDhoU15QsS638MKs=
+
+Name: lib/dom4j-2.1.3.jar
+SHA-256-Digest: hVq9Z6Oy5qkbp58JPqAOGcNVyYigCCt866KPyOXyviM=
+
+Name: lib/error_prone_annotations-2.3.4.jar
+SHA-256-Digest: MKrtXohrAZFvDFqYLUN15gGyl7lzxP/s2jCKebbQfkI=
+
+Name: lib/failureaccess-1.0.1.jar
+SHA-256-Digest: vbLFwX0zP8KbuS9BQpYzoBtyqD0Zl5C77RDAnAOHK6I=
+
+Name: lib/guava-32.1.2-jre.jar
+SHA-256-Digest: 37rPad2Y9A4ixQWwoBHxAqwDgR6K29fE6M/Hcj+2xgQ=
+
+Name: lib/httpclient-4.5.13.jar
+SHA-256-Digest: XvxoiLGpvnYaq8z0UFSRN43jiJcwKhNHGGuEZ9Yh9HQ=
+
+Name: lib/httpcore-4.4.13.jar
+SHA-256-Digest: lNKs0OiHXPd+mkF35iWjfdUfD41qNesqmWJJ9hhJdLU=
+
+Name: lib/istack-commons-runtime-4.1.1.jar
+SHA-256-Digest: mqKxH5QC9yIeNb8ykCKG0rcF6mrak6iWiVemx4dT7U0=
+
+Name: lib/j2objc-annotations-1.3.jar
+SHA-256-Digest: 13LpCh9WQbYCchrdRLM/1LWH3GE+B9vklYR0rGPugWs=
+
+Name: lib/jackson-annotations-2.16.0.jar
+SHA-256-Digest: KMZ+ObM1TyQHdtb6qx8g5PJ6v46NkBWx/Zyhe2cmdWc=
+
+Name: lib/jackson-core-2.16.0.jar
+SHA-256-Digest: 3GOP1F5PemfH/r35U/qA41hxn6jlGfx2FBAN1/zjtc4=
+
+Name: lib/jackson-core-asl-1.9.16-TALEND.jar
+SHA-256-Digest: icJuCJEvDzuD5W4XJ2AyqItUYOAm9m0mHKfP+nuPX2E=
+
+Name: lib/jackson-databind-2.16.0.jar
+SHA-256-Digest: iiGQe6xRItrdkjfvOMdXmdWvrN5kyS6o6gLZjJPf4D0=
+
+Name: lib/jackson-mapper-asl-1.9.16-TALEND.jar
+SHA-256-Digest: oLKpGohsIXi0rdvTTNBlewdyOdUqEH1I/n1fLsd53OM=
+
+Name: lib/jakarta.activation-api-2.1.3.jar
+SHA-256-Digest: bj83wniO69MiAcvigCzZUxuW+rk7PYXMr2oxVaUIKGQ=
+
+Name: lib/jakarta.xml.bind-api-4.0.2.jar
+SHA-256-Digest: HW0tX/R0l/iB1DaMUgt8cGZlVrsrmJKdB4GDOQrVVb8=
+
+Name: lib/javassist-3.30.2-GA.jar
+SHA-256-Digest: aCrtYWaa2/JXZmkbbZmWStVv1NE4D3NcDmJ9Gp5Fk6Y=
+
+Name: lib/javax.annotation-api-1.3.2.jar
+SHA-256-Digest: PaB3w2nscC9MPz14SH7LduCu1lxDOXYl1d/K8sDHEy4=
+
+Name: lib/javax.inject-1.jar
+SHA-256-Digest: sms48X9p4R+MgLNDji3eRxEhoPKxYyPf6DYPgAHiCIQ=
+
+Name: lib/javax.servlet-api-3.1.0.jar
+SHA-256-Digest: zK0TuIbYRGibDQVM114+sub9lBWVCKPfeY8cOi+ydPI=
+
+Name: lib/jaxb-core-4.0.2.jar
+SHA-256-Digest: GnaEgQ19C9K7dqxX6rYKw5cAWlhdltanSJtt8qkDVd8=
+
+Name: lib/jaxb-runtime-4.0.2.jar
+SHA-256-Digest: vG52MrH22vwqawsw15UQw+hv8PDQ0qS2nKrrngFMHyc=
+
+Name: lib/jboss-marshalling-2.0.12.Final.jar
+SHA-256-Digest: b3LXANpfoCBhNp9btNWKzYfaxehJi8gHUrKmO8ntz08=
+
+Name: lib/job-audit-1.5.jar
+SHA-256-Digest: bY9zVyNHyHI97W+LQPVcEmXkV9qtLT07vlkdpazQX/k=
+
+Name: lib/joda-time-2.8.2.jar
+SHA-256-Digest: gkEob41mkJzvmliJQSXf08flZrKGmb5hAZJa4jDp+mE=
+
+Name: lib/json-io-4.14.0-TALENDv2.jar
+SHA-256-Digest: ueFHWgLcvLHiA0oBbsOjgrMu1sOb9BPv7aF1Q7Ouf7A=
+
+Name: lib/json-smart-2.4.11.jar
+SHA-256-Digest: Xx9P3X2FmN8q/MUaPj0BQ9Jd+XVCXh8WLHYsrfsQFWQ=
+
+Name: lib/jsr305-1.3.9.jar
+SHA-256-Digest: wwmJdPsZuFkFTC3oUpi9AlgqqWVFxI18VzxbaQanFc0=
+
+Name: lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.j
+ ar
+SHA-256-Digest: nSxkYFit1pdQvwXEwxrvlHNngI5S0GtQ1dcUTCzFdVo=
+
+Name: lib/log4j-api-2.17.1.jar
+SHA-256-Digest: JvLoY5sLco/BURcgNHgMG3mxEKdLtkFa8AAT6sHmNSE=
+
+Name: lib/log4j-core-2.17.1.jar
+SHA-256-Digest: cRa1qIo4eCqb6oqTCZVXjwCXQLpDs22oDt4cKy+sL+Y=
+
+Name: lib/log4j-layout-template-json-2.17.1.jar
+SHA-256-Digest: vUMFrNPlMbVftu4KPdB2Xn0AmFfYyPcpweg6PtWlY4c=
+
+Name: lib/log4j-slf4j2-impl-2.19.0.jar
+SHA-256-Digest: Linllu1G9CRFgND4O0XHSth2IzKOKWyX/5W9u7zXUB4=
+
+Name: lib/logging-event-layout-1.16.1.jar
+SHA-256-Digest: PmSobk+tlNUL4BWA7aGX41BTalsqdspLShVh2mrBjTE=
+
+Name: lib/lombok-1.18.24.jar
+SHA-256-Digest: D3JoDRnW5GM3a6d9Uq3ZU5txpzPMKCcMK7IqV6sbDJU=
+
+Name: lib/maven-resolver-api-1.8.2.jar
+SHA-256-Digest: wUw3Xq82tV2dKzgG37LyuEurWef+puiPzyYBcOE7reY=
+
+Name: lib/maven-resolver-impl-1.8.2.jar
+SHA-256-Digest: 3hcZtWnWHkB6m0IjiXKs42nvohpuAf2/mQcmFeBhER8=
+
+Name: lib/maven-resolver-named-locks-1.8.2.jar
+SHA-256-Digest: 29fsjRO8cc1dcBu66Mb5PL+PvOFv4a9KLINMUhcgwCg=
+
+Name: lib/maven-resolver-spi-1.8.2.jar
+SHA-256-Digest: K6sL6p4bMgFSAPJIxBgi4Y9VzoynOA1QqmCXaRR5Ce4=
+
+Name: lib/maven-resolver-util-1.8.2.jar
+SHA-256-Digest: z+KwsRl5TOW7WCZ3SjLC1keJqgAFaZnAySZZshYL/qA=
+
+Name: lib/org.osgi.service.component.annotations-1.3.0.jar
+SHA-256-Digest: 8RD+XLdcvifcYMwK2KHdLqUhnOwVAmQqTVwbD4mIJuM=
+
+Name: lib/pax-url-aether-2.6.16.jar
+SHA-256-Digest: UeJL+Mw8DRsSUEafEfhVQJFvvoePfa/6oDvykW6Xfj0=
+
+Name: lib/pax-url-aether-support-2.6.16.jar
+SHA-256-Digest: c0f/oHlqgRTxfORb0fTjceMVH4H8Rg1pZr4TgWxAPX8=
+
+Name: lib/routines.jar
+SHA-256-Digest: J2XDa+W3GgY1zqBIPWiK+7vVOxW+IGRNSGy5ZMT0xQg=
+
+Name: lib/slf4j-api-2.0.16.jar
+SHA-256-Digest: hkPvy4LPH+Mzv60oRAdgNCLWif0/jBtQVmdcuvuwpeM=
+
+Name: lib/snowflake-jdbc-3.22.0.jar
+SHA-256-Digest: dNkFjhXfF5E/zU6w8zhAzHyuKvhKoYF1PxlaPIFpe0c=
+
+Name: lib/system-routines.jar
+SHA-256-Digest: nsZAOXz9cqPAFIgT8ZsQPGGLxNswAg8rnbEuwN4xrr0=
+
+Name: lib/talend-codegen-utils.jar
+SHA-256-Digest: Cl3w63Hqc23xyXUhlJ3MVMoFnefJEdezEX8Xyyp+UmU=
+
+Name: lib/talend-sql-injection-utils-1.0.jar
+SHA-256-Digest: ONfuBGMEmV9ph7CBLfyMI37sEoszjwMrgLzdmv2mqsw=
+
+Name: lib/talendCBP-1.1.5.jar
+SHA-256-Digest: EJtJHhhL6sgLRvZ9MSVAHXHp7TLLyCBhQOeJUm3vlUI=
+
+Name: lib/talend_file_enhanced-1.3.1.jar
+SHA-256-Digest: BQ9c9yU0DBWip1qbbeN1X9PGqBuRErs1tswJ2K1Q2ks=
+
+Name: lib/talendagent-1.0.2.jar
+SHA-256-Digest: Qjp4o47+T9ynFp4CnC6BEjJh3h54KyGULx9/xQNxyHA=
+
+Name: lib/talendboot-1.0.9.jar
+SHA-256-Digest: IVN1h7hn8IkNb+a93tpNLQ7J815Lif9nkyEjO7FXZwA=
+
+Name: lib/talendcsv-1.1.0.jar
+SHA-256-Digest: QrVTJqlts0vhIpu+wYey6Ug8H0pZJYqZrObWFK2XVA0=
+
+Name: lib/txw2-4.0.2.jar
+SHA-256-Digest: 9vHyvJMQb7fTFqPEauOe0gHDryEdm/iEhKqTQ3RkANk=
+
